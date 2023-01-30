@@ -51,7 +51,7 @@ By sending the command "q", whole nodes will be killed and exited successfully.
 
 ## ROS nods and services Structure
 
-	<p align="center">
+<p align="center">
 <img src="https://github.com/hrtreza/ResearchTrack1_Assignment2/blob/main/world/rosgraph.png">
 </p>
 The whole block diagram of the running nodes and services in this project is illustrated as follows:
