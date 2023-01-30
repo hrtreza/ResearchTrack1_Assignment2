@@ -11,6 +11,8 @@ Increase the linear velocity;
 Decrease the linear velocity;
 Stop the robot;
 Reset the robot to the initial position.
+<p align="center">
+<img src="https://github.com/hrtreza/ResearchTrack1_Assignment2/blob/main/world/tracciato.png" width="200" height="158"> 
 
 
 ## How to run and compile...! 
