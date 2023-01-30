@@ -3,7 +3,14 @@
 
 This is a robot simulation in a circular path (like a racing path) that benefits from the Robot Operating System **(ROS)**. The robot is equipped with a laser scanner in front of the robot which provides distances from different obstacles. 
 
+##Introduction
+This program manage a robot, endowed with laser scanners, which should move autonomously inside a circuit.
+You can use the robot controller to:
 
+Increase the linear velocity;
+Decrease the linear velocity;
+Stop the robot;
+Reset the robot to the initial position.
 
 
 ## How to run and compile...! 
@@ -151,4 +158,4 @@ Also, this node can be considered as a **Subscriber** from the ***/odom*** topic
 
 														    
 ## Further improvements
-To improve the performance of the robot movements, some extra conditions can be added, which can make the movements smoother, especially when a higher speed level is requested.    
+To improve the performance of the robot movements, some extra conditions can be added, which can make the movements smoother, especially when a higher speed level is requested. And also, it could be done an improvement to mantain better the robot in the center of the path. 
